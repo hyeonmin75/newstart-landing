@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
         </div>
         <div className="mt-12 pt-8 border-t border-indigo-800 text-center text-sm text-gray-500">
           <p>&copy; {new Date().getFullYear()} 새출발기금. All Rights Reserved.</p>
-          <p className="mt-1">이 웹사이트는 학습 목적으로 제작된 클론 사이트입니다.</p>
+          <p className="mt-1">이 웹사이트는 새출발기금 공식 안내를 위해 만들어졌습니다.</p>
         </div>
       </div>
     </footer>
